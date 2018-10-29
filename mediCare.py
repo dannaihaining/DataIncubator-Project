@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 29 01:07:06 2018
-
-@author: haining
+Author: https://www.kaggle.com/kerneler/starter-cms-estimated-uninsured-people-0208c6c7-2?scriptVersionId=6820612
 """
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler
